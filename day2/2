@@ -1,2 +1,0 @@
-If dir is called without any argument then it return the names in the current scope. Else, return an alphabetized list of names comprising (some of) the attributes of the given object, and of attributes reachable from it.
-
