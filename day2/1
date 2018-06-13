@@ -1,0 +1,7 @@
+shebang for bash:-
+
+#!/usr/bin/env bash
+
+shebang for Perl:-
+
+#!/usr/bin/env perl1
